@@ -1,5 +1,8 @@
 /**
- * Created by damian on 19/01/2017.
+ * Created by Damian Dąbrowski
+ *
+ * @author Damian Dąbrowski <dabrowski1983@gmail.com>
+ *
  */
 "use strict";
 

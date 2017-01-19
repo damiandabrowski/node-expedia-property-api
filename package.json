@@ -1,6 +1,6 @@
 {
   "name": "node-expedia-property-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node wrapper for Expedia Property API https://expediaconnectivity.com/apis/product-management/property-api/api-definition.html",
   "main": "index.js",
   "scripts": {
