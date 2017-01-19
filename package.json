@@ -1,0 +1,25 @@
+{
+  "name": "node-expedia-property-api",
+  "version": "1.0.0",
+  "description": "Node wrapper for Expedia Property API https://expediaconnectivity.com/apis/product-management/property-api/api-definition.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiandabrowski/node-expedia-property-api.git"
+  },
+  "keywords": [
+    "expedia",
+    "node",
+    "api",
+    "property"
+  ],
+  "author": "Damian Dąbrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damiandabrowski/node-expedia-property-api/issues"
+  },
+  "homepage": "https://github.com/damiandabrowski/node-expedia-property-api#readme"
+}
